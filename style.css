@@ -8,12 +8,18 @@ nav.navbar{
     border: black;
     font-family: SegoeScript, serif;
     font-weight: bold;
+    font-size: 1.7rem;
+    padding-right: 40px;
 }
 
 nav a{
     color: black;
     
 
+}
+
+.logo{
+    width: 70px;
 }
 
 @font-face {
