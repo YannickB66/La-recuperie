@@ -1,13 +1,29 @@
 body{
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("./assets/paper-bg.jpg") ;
 }
 
-nav{
-    background-color: #93C331;
+nav.navbar{
+    background-color: #83B330;
+    box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.479);
+    border: black;
+    font-family: SegoeScript, serif;
+    font-weight: bold;
 }
 
 nav a{
     color: black;
     
 
+}
+
+@font-face {
+    font-family: SegoeScript;
+    src: url("./fonts/segoesc.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: SegoeScript;
+    src: url("./fonts/segoescb.ttf");
+    font-weight: bold;
 }
