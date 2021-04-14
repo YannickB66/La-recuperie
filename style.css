@@ -1,0 +1,38 @@
+body{
+    background-image: url("./assets/paper-bg.jpg") ;
+}
+
+nav.navbar{
+    background-color: #83B330;
+    box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.479);
+    border: black;
+    font-family: SegoeScript, serif;
+    font-weight: bold;
+    font-size: 1.7rem;
+    padding-right: 40px;
+}
+
+h1{
+    font-family: SegoeScript, serif;
+}
+
+nav a{
+    color: black;    
+
+}
+
+.logo{
+    width: 230px;
+}
+
+@font-face {
+    font-family: SegoeScript;
+    src: url("./fonts/segoesc.ttf");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: SegoeScript;
+    src: url("./fonts/segoescb.ttf");
+    font-weight: bold;
+}
