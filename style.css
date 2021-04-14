@@ -12,14 +12,17 @@ nav.navbar{
     padding-right: 40px;
 }
 
+h1{
+    font-family: SegoeScript, serif;
+}
+
 nav a{
-    color: black;
-    
+    color: black;    
 
 }
 
 .logo{
-    width: 70px;
+    width: 230px;
 }
 
 @font-face {
