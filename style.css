@@ -25,6 +25,22 @@ nav a{
     width: 230px;
 }
 
+.contact-bar{
+    width: 184px;
+    height: 480px;
+    position: fixed;
+    right: 0px;
+    top: 220px;
+    background-color: #83B330;
+    box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.479);
+    text-align: center;
+}
+
+.contact-bar img{
+    width: 150px;
+}
+
+
 @font-face {
     font-family: SegoeScript;
     src: url("./fonts/segoesc.ttf");
