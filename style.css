@@ -44,6 +44,8 @@ footer{
     background-color: #83B330;
     height: 50px;
     box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.479);
+    position: relative;
+    bottom: 0px;
 }
 
 @font-face {
