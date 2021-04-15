@@ -59,3 +59,18 @@ footer{
     src: url("./fonts/segoescb.ttf");
     font-weight: bold;
 }
+
+
+@media screen and (max-width: 600px) { 
+
+.tx{
+    font-size: 1.2rem;
+}
+
+.foot{
+    font-size: 0.8rem;
+}
+
+ }
+
+ 
