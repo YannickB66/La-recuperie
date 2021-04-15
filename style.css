@@ -40,6 +40,11 @@ nav a{
     width: 150px;
 }
 
+footer{
+    background-color: #83B330;
+    height: 50px;
+    box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.479);
+}
 
 @font-face {
     font-family: SegoeScript;
