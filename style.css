@@ -2,6 +2,16 @@ body{
     background-image: url("./assets/paper-bg.jpg") ;
 }
 
+body, html{
+    height:100%;
+}
+
+
+#main{
+position:relative;
+min-height:100%;
+}
+
 nav.navbar{
     background-color: #83B330;
     box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.479);
@@ -43,8 +53,7 @@ nav a{
 footer{
     background-color: #83B330;
     height: 50px;
-    box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.479);
-    position:static;
+    position:absolute;
     bottom: 0px;
 }
 
@@ -71,6 +80,6 @@ footer{
     font-size: 0.7rem;
 }
 
- }
+}
 
  
